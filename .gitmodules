@@ -1,0 +1,3 @@
+[submodule "core/core-opengl"]
+	path = core/core-opengl
+	url = git@github.com:sero-lib/sero-core-opengl.git

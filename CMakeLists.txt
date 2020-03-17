@@ -4,3 +4,4 @@ project(sero)
 set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory(core/core-opengl)
+add_subdirectory(core/core-utils)

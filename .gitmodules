@@ -1,3 +1,6 @@
 [submodule "core/core-opengl"]
 	path = core/core-opengl
 	url = git@github.com:sero-lib/sero-core-opengl.git
+[submodule "core/core-utils"]
+	path = core/core-utils
+	url = git@github.com:sero-lib/core-utils.git
